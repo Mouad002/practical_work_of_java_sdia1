@@ -203,8 +203,8 @@ System.out.println("Union: " + union);
 ```
 ### Output
 ```
-[a2, a3]
-[a1, b2, a2, a3, b1]
+Intersection: [a2, a3]
+Union: [a1, b2, a2, a3, b1]
 
 Process finished with exit code 0
 ```
